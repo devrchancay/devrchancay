@@ -1,6 +1,6 @@
 ## Hi human / I'm Ramón
 
-I am a Front-End Engineer currently working at !<img src="./desarol.png" alt="desarol" title="A cute kitten" width="150" />
+I am a Front-End Engineer currently working at <img src="https://raw.githubusercontent.com/devrchancay/devrchancay/master/desarol.png" alt="desarol" title="Desarol" width="150" />
 <hr/>
 
 I live in Ecuador 🇪🇨 and write a lot of Javascript code, a couple of years ago I am a development consultant for several developers/companies.
