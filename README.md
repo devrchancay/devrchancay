@@ -1,3 +1,3 @@
-![Software developer](https://raw.githubusercontent.com/devrchancay/devrchancay/master/banner.png)
+![Software developer](https://raw.githubusercontent.com/devrchancay/devrchancay/master/dev-banner.png)
 
 
