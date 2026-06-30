@@ -173,22 +173,11 @@ OpenAI   ·   Anthropic / Claude   ·   Gemini   ·   Vercel AI SDK   ·   LangC
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ramón's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrchancay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devrchancay&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### 📬 Let's build something
 
-**[Hire me on Upwork](https://www.upwork.com/freelancers/devrchancay?mp_source=share)** &nbsp;·&nbsp; **[hola@ramonchancay.me](mailto:hola@ramonchancay.me)** &nbsp;·&nbsp; 💬 WhatsApp +593 96 867 1169
+**[Hire me on Upwork](https://www.upwork.com/freelancers/devrchancay?mp_source=share)** &nbsp;·&nbsp; **[hola@ramonchancay.me](mailto:hola@ramonchancay.me)**
 
 <sub>Sharp, credible, crafted. The work makes the claim. ✨</sub>
 
