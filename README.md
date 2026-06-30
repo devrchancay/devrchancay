@@ -173,6 +173,19 @@ OpenAI   ·   Anthropic / Claude   ·   Gemini   ·   Vercel AI SDK   ·   LangC
 
 ---
 
+## 📊 GitHub
+
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/devrchancay?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=211e1a)](https://github.com/devrchancay?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=devrchancay&style=for-the-badge&color=c76a3c&label=Profile+views)
+![Years coding](https://img.shields.io/badge/Years%20coding-13%2B-c76a3c?style=for-the-badge)
+![Top Rated](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 📬 Let's build something
