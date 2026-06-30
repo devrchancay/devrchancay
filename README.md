@@ -1,7 +1,5 @@
 <div align="center">
 
-![Ramón Chancay — Web, Mobile & AI Developer](https://raw.githubusercontent.com/devrchancay/devrchancay/master/dev-header.png)
-
 # Hi, I'm Ramón Chancay 👋
 
 **Web &amp; Native Developer · AI Enthusiast · Top Rated on Upwork**
