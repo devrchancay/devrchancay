@@ -116,13 +116,33 @@ OpenAI   ·   Anthropic / Claude   ·   Gemini   ·   Vercel AI SDK   ·   LangC
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://ramonchancay.me/blog/what-is-an-agent-loop">
-        <img src="https://ramonchancay.me/blog/what-is-an-agent-loop-og.png" alt="What an agent loop is (and isn't)" width="100%" />
+      <a href="https://ramonchancay.me/blog/voice-agent-books-appointments-elevenlabs-calcom">
+        <img src="https://ramonchancay.me/blog/voice-agent-books-appointments-elevenlabs-calcom-og.png" alt="Voice agent that books appointments" width="100%" />
+      </a>
+      <br /><br />
+      <code>AI</code> · <code>Voice agents</code><br />
+      <b><a href="https://ramonchancay.me/blog/voice-agent-books-appointments-elevenlabs-calcom">A voice agent that books appointments</a></b><br />
+      <sub>ElevenLabs + Cal.com for 30-minute bookings — and why the Fastify backend is what keeps the model from inventing times.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ramonchancay.me/blog/data-annotation-jobs-reviewing-ai-responses">
+        <img src="https://ramonchancay.me/blog/data-annotation-jobs-reviewing-ai-responses-og.png" alt="Data annotation jobs: labeling and reviewing AI responses" width="100%" />
+      </a>
+      <br /><br />
+      <code>AI</code> · <code>RLHF</code><br />
+      <b><a href="https://ramonchancay.me/blog/data-annotation-jobs-reviewing-ai-responses">Data annotation jobs, explained</a></b><br />
+      <sub>What labeling and reviewing AI responses actually involves, how it feeds RLHF, and how annotator quality gets measured.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ramonchancay.me/blog/orca-parallel-coding-agent-fleet">
+        <img src="https://ramonchancay.me/blog/orca-parallel-coding-agent-fleet-og.png" alt="Orca: orchestrating a fleet of coding agents in parallel" width="100%" />
       </a>
       <br /><br />
       <code>AI</code> · <code>Agents</code><br />
-      <b><a href="https://ramonchancay.me/blog/what-is-an-agent-loop">What an agent loop is (and isn't)</a></b><br />
-      <sub>The three parts of an agent loop — state, action, stop — and why "build me an app" is input for a chat, not an agent.</sub>
+      <b><a href="https://ramonchancay.me/blog/orca-parallel-coding-agent-fleet">Orca: a fleet of coding agents in parallel</a></b><br />
+      <sub>Trying the open-source Agent Development Environment that runs a fleet of coding agents, each in its own isolated worktree.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://ramonchancay.me/blog/model-routing-openrouter-deepseek">
@@ -134,31 +154,13 @@ OpenAI   ·   Anthropic / Claude   ·   Gemini   ·   Vercel AI SDK   ·   LangC
       <sub>Routing models in production — DeepSeek for the bulk of traffic, premium models only where it matters. Lower cost, same quality.</sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://ramonchancay.me/blog/news-pipeline-n8n-rss-wordpress">
-        <img src="https://ramonchancay.me/blog/news-pipeline-n8n-rss-wordpress-og.png" alt="Automating a news site with n8n" width="100%" />
-      </a>
-      <br /><br />
-      <code>Automation</code> · <code>LLM</code><br />
-      <b><a href="https://ramonchancay.me/blog/news-pipeline-n8n-rss-wordpress">I automated a news site with n8n</a></b><br />
-      <sub>An n8n pipeline that reads 20 RSS feeds, deduplicates with Postgres, and curates &amp; rewrites with tiered AI into WordPress drafts.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <br />
-      <div align="center">
-        <br /><br /><br />
-        📚 <b><a href="https://ramonchancay.me/blog">Read all posts →</a></b>
-        <br /><br />
-        <sub>AI engineering · automation · practical LLM work</sub>
-      </div>
-    </td>
-  </tr>
 </table>
 
 <div align="center">
 
-📚 Read more at **[ramonchancay.me/blog](https://ramonchancay.me/blog)** &nbsp;·&nbsp; also on **[dev.to](https://dev.to/devrchancay)**
+📚 **[Read all posts →](https://ramonchancay.me/blog)** &nbsp;·&nbsp; also on **[dev.to](https://dev.to/devrchancay)**
+
+<sub>AI engineering · automation · practical LLM work</sub>
 
 </div>
 
