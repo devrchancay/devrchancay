@@ -23,7 +23,6 @@ Full-stack **web & mobile engineer** with 13+ years building and shipping produc
 For the last few years my focus has been **AI engineering** — building real, in-production features on top of LLMs: RAG pipelines, conversational agents, vector search, and AI-native product flows that users actually rely on.
 
 - 🟢 **100% Job Success · Top Rated** on Upwork
-- 💼 Software Engineer at **[Desarol](https://desarol.com)** since 2019
 - 🧠 Shipping **AI-native** apps with **Next.js · Expo · Supabase · Anthropic / OpenAI**
 - 🗣️ Bilingual (EN / ES) — and a former conference speaker
 
