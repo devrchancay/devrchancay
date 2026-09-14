@@ -84,7 +84,7 @@ OpenAI   ·   Anthropic / Claude   ·   Gemini   ·   Vercel AI SDK   ·   LangC
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Software Engineer** | Desarol 🇺🇸 | Aug 2019 – Present |
+| **Software Engineer** | Desarol 🇺🇸 | Aug 2019 – Jul 2026 |
 | **Lead React Native Developer** | Tropical House Records 🇪🇸 | Mar 2024 – Feb 2025 |
 | **Senior Full Stack Mobile Developer** | NativApps Inc. 🇺🇸 | Jul 2022 – Feb 2024 |
 | **Senior Software Consultant** | Diario El Universo 🇪🇨 | May 2020 – Jan 2021 |
